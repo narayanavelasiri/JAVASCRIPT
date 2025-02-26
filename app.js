@@ -7,20 +7,20 @@
 // getElementByTagName
 // getElementByClassName
 // getElementById
-//.queryselector
-//.qureyselectorall
+// .queryselector
+// .qureyselectorall
 
-// var heading = window.document.getElementsByTagName("li");
-// console.log(heading)
-// var ex = document.getElementsByTagName("p")
-// console.log(ex)
-// var listofmobiles = document.getElementsByClassName("mobilelist")
-// console.log(listofmobiles
+var heading = window.document.getElementsByTagName("li");
+console.log(heading)
+var ex = document.getElementsByTagName("p")
+console.log(ex)
+var listofmobiles = document.getElementsByClassName("mobilelist")
+console.log(listofmobiles
 
-// )
+)
 
-// var specificbrand = document.getElementById("mobileBrands")
-// console.log(specificbrand)
+var specificbrand = document.getElementById("mobileBrands")
+console.log(specificbrand)
 var randomelement = document.querySelector("h1")
 console.log(randomelement)
 var randomelements = document.querySelectorAll("h1")
